@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Illusion",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Distortion",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Your Nightmare Starts Here",
+	"weekName": "The_Beginning",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}

@@ -1,0 +1,3 @@
+Allusion:1:bf-night-b:0xFF9F2C86:DISTORCIDO:false:30:200
+Accusation:3:black:0xFF330F0F:TRAIÇÃO:true:50:180
+Relief (Alt):3:gf:0xFFF80074:AMOR:false:0:100

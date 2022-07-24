@@ -1,0 +1,385 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "nightMall",
+		"player1": "boyfriend",
+		"player2": "bf-night",
+		"player3": "",
+		"events": [
+			[
+				0,
+				[
+					[
+						"Disable / Enable Effects",
+						"",
+						""
+					],
+					[
+						"Zoom Frequency",
+						"999",
+						""
+					],
+					[
+						"Health Drain",
+						"",
+						""
+					]
+				]
+			],
+			[
+				300,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				900,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				1500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				2100,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				2700,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				3300,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				3900,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				4500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				4800,
+				[
+					[
+						"Smooth Cam Zoom",
+						"camGame",
+						"1.2",
+						"64"
+					]
+				]
+			],
+			[
+				5100,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				5700,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				6300,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				6900,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				7500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				8100,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				8700,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				9300,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					],
+					[
+						"Zoom Frequency",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"Camera Flash",
+						"camHUD",
+						"1",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Smooth Cam Zoom",
+						"camGame",
+						"1.2",
+						"64"
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Camera Flash",
+						"camHUD",
+						"1",
+						"FFFFFF"
+					],
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				52800,
+				[
+					[
+						"Smooth Cam Zoom",
+						"camGame",
+						"1.2",
+						"64"
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Happy BG",
+						"Remove",
+						"True",
+						"00FFFF"
+					],
+					[
+						"Middle Scroll",
+						"True",
+						"0.0001",
+						"linear"
+					],
+					[
+						"Fire Raises",
+						"0.0001",
+						""
+					],
+					[
+						"Disable / Enable Effects",
+						"",
+						""
+					],
+					[
+						"Health Drain",
+						"",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0.001"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					],
+					[
+						"Slow Part",
+						"1.2",
+						"128",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Disable / Enable Effects",
+						"",
+						""
+					],
+					[
+						"Middle Scroll",
+						"False",
+						"0.0001",
+						"linear"
+					],
+					[
+						"Happy BG",
+						"Add",
+						"True",
+						"FFFFFF"
+					],
+					[
+						"Zoom Frequency",
+						"2",
+						""
+					],
+					[
+						"Health Drain",
+						"",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.0001"
+					]
+				]
+			],
+			[
+				134475,
+				[
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				144075,
+				[
+					[
+						"Zoom Frequency",
+						"400",
+						""
+					]
+				]
+			],
+			[
+				145200,
+				[
+					[
+						"Fade Camera",
+						"camGame",
+						"0",
+						"1.1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Illusion"
+	}
+}

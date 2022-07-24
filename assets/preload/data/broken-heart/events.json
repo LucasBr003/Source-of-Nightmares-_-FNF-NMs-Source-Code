@@ -1,0 +1,261 @@
+{
+	"song": {
+		"speed": 3.05,
+		"stage": "nightStage",
+		"player1": "boyfriend-pinklish",
+		"player2": "gf",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Camera Follow Pos",
+						"600",
+						"370",
+						""
+					],
+					[
+						"Smooth Cam Zoom",
+						"camGame",
+						"1",
+						"256"
+					],
+					[
+						"Fade Camera",
+						"camGame",
+						"0.85",
+						"3.5"
+					]
+				]
+			],
+			[
+				17454.5454545455,
+				[
+					[
+						"Camera Flash",
+						"camHUD",
+						"1",
+						"FF0056"
+					],
+					[
+						"Fade Camera",
+						"camHUD",
+						"1",
+						"0.001"
+					],
+					[
+						"Middle Scroll",
+						"True",
+						"0.0001",
+						"linear "
+					],
+					[
+						"Change Character",
+						"dad",
+						"gf-night"
+					],
+					[
+						"Fade Camera",
+						"camGame",
+						"1",
+						"0.0001"
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34909.0909090909,
+				[
+					[
+						"Zoom Frequency",
+						"2",
+						"",
+						""
+					]
+				]
+			],
+			[
+				52363.6363636363,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						"",
+						""
+					],
+					[
+						"Fire Raises",
+						"0.5",
+						""
+					],
+					[
+						"Fast Part",
+						"FFFFFF",
+						"1",
+						"False"
+					]
+				]
+			],
+			[
+				87272.7272727272,
+				[
+					[
+						"Camera Flash",
+						"camHUD",
+						"1",
+						"FFFFFF"
+					],
+					[
+						"Zoom Frequency",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				104727.272727273,
+				[
+					[
+						"Slow Part",
+						"1.1",
+						"128",
+						"FFFFFF"
+					],
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				113454.545454545,
+				[
+					[
+						"Camera Flash",
+						"camHUD",
+						"1",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				113454.545454545,
+				[
+					[
+						"Camera Flash",
+						"camHUD",
+						"1",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				122181.818181818,
+				[
+					[
+						"Fade Object",
+						"dad",
+						"1",
+						"1"
+					],
+					[
+						"Smooth Cam Zoom",
+						"camGame",
+						"1.1",
+						"128 "
+					]
+				]
+			],
+			[
+				130909.090909091,
+				[
+					[
+						"Fast Part",
+						"FF0056",
+						"1",
+						"True"
+					],
+					[
+						"Fire Raises",
+						"0.001",
+						""
+					],
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				165818.181818182,
+				[
+					[
+						"Slow Part",
+						"1.1",
+						"256",
+						"FFFFFF"
+					],
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				174545.454545454,
+				[
+					[
+						"Zoom Frequency",
+						"2",
+						"",
+						""
+					]
+				]
+			],
+			[
+				178909.090909091,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						"",
+						""
+					]
+				]
+			],
+			[
+				183272.727272727,
+				[
+					[
+						"Zoom Frequency",
+						"999",
+						"",
+						""
+					],
+					[
+						"Camera Flash",
+						"camHUD",
+						"1",
+						"FFFFFF"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 220,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Broken Heart"
+	}
+}

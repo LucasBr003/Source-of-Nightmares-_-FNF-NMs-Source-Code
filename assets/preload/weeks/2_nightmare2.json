@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			" Corn",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Spamming",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Hell Farmer",
+	"weekName": "Nightmare_2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "1_nightmare1",
+	"startUnlocked": false
+}

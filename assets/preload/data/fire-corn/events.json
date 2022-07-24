@@ -1,0 +1,123 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "nightRoom",
+		"player1": "boyfriend-green",
+		"player2": "bambi",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Smooth Cam Zoom",
+						"camGame",
+						"1.2",
+						"256"
+					]
+				]
+			],
+			[
+				15360,
+				[
+					[
+						"Fade Camera",
+						"camHUD",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				30720,
+				[
+					[
+						"Fast Part",
+						"00FF00",
+						"1",
+						"False"
+					],
+					[
+						"Zoom Frequency",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Slow Part",
+						"1.2",
+						"128",
+						"FFFFFF"
+					],
+					[
+						"Camera Flash",
+						"camHUD",
+						"1",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				45120,
+				[
+					[
+						"Zoom Frequency",
+						"4",
+						"",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Fast Part",
+						"FFFFFF",
+						"1",
+						"False"
+					],
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				94080,
+				[
+					[
+						"Slow Part",
+						"1.2",
+						"1024",
+						"FFFFFF"
+					],
+					[
+						"Camera Flash",
+						"camHUD",
+						"1",
+						"FFFFFF"
+					],
+					[
+						"",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 250,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Fire Corn"
+	}
+}

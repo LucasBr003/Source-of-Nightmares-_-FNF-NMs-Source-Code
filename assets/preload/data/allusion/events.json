@@ -1,0 +1,228 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "nightMall",
+		"player1": "boyfriend",
+		"player2": "bf-night-b",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Zoom Frequency",
+						"2",
+						"",
+						""
+					],
+					[
+						"Health Drain",
+						"",
+						""
+					],
+					[
+						"Disable / Enable Effects",
+						"",
+						""
+					]
+				]
+			],
+			[
+				600,
+				[
+					[
+						"Fire Raises",
+						"1",
+						"",
+						""
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						"",
+						""
+					],
+					[
+						"Camera Flash",
+						"camHUD",
+						"1",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				21000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06",
+						""
+					]
+				]
+			],
+			[
+				25800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06",
+						""
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Zoom Frequency",
+						"2",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57600,
+				[
+					[
+						"Zoom Frequency",
+						"4",
+						"",
+						""
+					],
+					[
+						"Smooth Cam Zoom",
+						"camGame",
+						"1.2",
+						"16"
+					]
+				]
+			],
+			[
+				58800,
+				[
+					[
+						"Disable / Enable Effects",
+						"",
+						"",
+						""
+					],
+					[
+						"Health Drain",
+						"",
+						""
+					],
+					[
+						"Fast Part",
+						"FF8EE6",
+						"1",
+						"True"
+					],
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					],
+					[
+						"Happy BG",
+						"Remove",
+						"False",
+						"000000 "
+					],
+					[
+						"Middle Scroll",
+						"True",
+						"1.5",
+						"quadInOut"
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"Happy BG",
+						"Add",
+						"True",
+						"FFFFFF"
+					],
+					[
+						"Health Drain",
+						"",
+						""
+					],
+					[
+						"Disable / Enable Effects",
+						"",
+						""
+					],
+					[
+						"Middle Scroll",
+						"False",
+						"1.5",
+						"quadInOut"
+					]
+				]
+			],
+			[
+				89400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06",
+						""
+					]
+				]
+			],
+			[
+				94200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.030",
+						"0.06",
+						""
+					]
+				]
+			],
+			[
+				97200,
+				[
+					[
+						"Zoom Frequency",
+						"2",
+						"",
+						""
+					]
+				]
+			],
+			[
+				135675,
+				[
+					[
+						"Zoom Frequency",
+						"999",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 200,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Allusion"
+	}
+}

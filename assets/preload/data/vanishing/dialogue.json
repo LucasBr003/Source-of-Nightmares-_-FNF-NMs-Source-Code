@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Right... I see we'll have to do things the hard way...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night"
+		},
+		{
+			"expression": "talk",
+			"text": "Luckly I have some ''friends'' to help me.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night"
+		},
+		{
+			"expression": "confused",
+			"text": "bep boop skdeep?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, you'll see...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night"
+		},
+		{
+			"expression": "talk",
+			"text": "Come here.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night"
+		},
+		{
+			"expression": "confused",
+			"text": "beep?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

@@ -1,0 +1,315 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "nightSus",
+		"player1": "boyfriend-red",
+		"player2": "black-normal",
+		"player3": null,
+		"events": [
+			[
+				10666.6666666667,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						"",
+						""
+					],
+					[
+						"Camera Flash",
+						"camHUD",
+						"1",
+						"FF0000"
+					]
+				]
+			],
+			[
+				53333.3333333334,
+				[
+					[
+						"Middle Scroll",
+						"True",
+						"1.5",
+						"quintOut"
+					],
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				54333.3333333334,
+				[
+					[
+						"Camera Flash",
+						"camHUD",
+						"1",
+						"FFFFFF"
+					],
+					[
+						"Change Character",
+						"dad",
+						"black-dark"
+					],
+					[
+						"Change Character",
+						"bf",
+						"boyfriend-dark"
+					],
+					[
+						"Show Only Strums",
+						"True",
+						""
+					]
+				]
+			],
+			[
+				54666.6666666667,
+				[
+					[
+						"Sabotage Alert",
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				57333.3333333334,
+				[
+					[
+						"Sabotage Alert",
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Sabotage Alert",
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				62666.6666666667,
+				[
+					[
+						"Sabotage Alert",
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				65333.3333333334,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						"",
+						""
+					],
+					[
+						"Sabotage Alert",
+						"",
+						""
+					]
+				]
+			],
+			[
+				68000,
+				[
+					[
+						"Sabotage Alert",
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				70666.6666666667,
+				[
+					[
+						"Sabotage Alert",
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				73333.3333333334,
+				[
+					[
+						"Sabotage Alert",
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				76000,
+				[
+					[
+						"Sabotage Alert",
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78666.6666666667,
+				[
+					[
+						"Sabotage Alert",
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				81333.3333333333,
+				[
+					[
+						"Sabotage Alert",
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Sabotage Alert",
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				86000,
+				[
+					[
+						"Zoom Frequency",
+						"4",
+						"",
+						""
+					]
+				]
+			],
+			[
+				86333.3333333333,
+				[
+					[
+						"Camera Flash",
+						"camHUD",
+						"1",
+						"FFFFFF"
+					],
+					[
+						"Change Character",
+						"dad",
+						"black-normal"
+					],
+					[
+						"Change Character",
+						"bf",
+						"boyfriend-red"
+					],
+					[
+						"Middle Scroll",
+						"False",
+						"0.5",
+						"quintOut"
+					],
+					[
+						"Show Only Strums",
+						"False",
+						""
+					]
+				]
+			],
+			[
+				86666.6666666666,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						"",
+						""
+					]
+				]
+			],
+			[
+				118666.666666667,
+				[
+					[
+						"Zoom Frequency",
+						"400",
+						"",
+						""
+					],
+					[
+						"Camera Flash",
+						"camHUD",
+						"1",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				129333.333333333,
+				[
+					[
+						"Zoom Frequency",
+						"999",
+						"",
+						""
+					],
+					[
+						"Camera Flash",
+						"camOther",
+						"2.5",
+						"FF0000 "
+					],
+					[
+						"Fade Camera",
+						"camHUD",
+						"0",
+						"0.0001"
+					],
+					[
+						"Fade Camera",
+						"camGame",
+						"0",
+						"0.0001"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Accusation"
+	}
+}

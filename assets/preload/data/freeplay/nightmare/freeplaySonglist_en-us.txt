@@ -1,0 +1,10 @@
+Illusion:1:bf-night:0xFF002338:DISTORTED:false:30:200
+Distortion:1:bf-night:0xFF002338:DISTORTED:true:40:170
+Vanishing:2:eteled:0xFF2D000C:DELETED:true:10:190
+No Traces:2:eteled:0xFF2D000C:DELETED:true:20:185
+Fire Corn:3:bambi:0xFF002E09:SPAM:true:10:250
+Spamming:3:bambi:0xFF002E09:SPAM:true:20:200
+Improbability:4:tricky:0xFF3E0000:MAD:true:10:185
+Combat:4:tricky:0xFF3E0000:MAD:true:20:200
+Final Nightmare:1:everyone:0xFF000000:NIGHTMARE:true:75:215
+Relief:3:gf:0xFFF80074:LOVE:true:0:100

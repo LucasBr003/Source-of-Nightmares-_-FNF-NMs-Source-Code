@@ -1,0 +1,573 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "nightMall",
+		"player1": "boyfriend-cyan",
+		"player2": "bf-night",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Smooth Cam Zoom",
+						"camGame",
+						"1.2",
+						"127"
+					],
+					[
+						"Fire Raises",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				11294.1176470588,
+				[
+					[
+						"Camera Flash",
+						"camHUD",
+						"1",
+						"FFFFFF"
+					],
+					[
+						"Fade Camera",
+						"camHUD",
+						"1",
+						"0.0001"
+					]
+				]
+			],
+			[
+				32470.5882352941,
+				[
+					[
+						"Smooth Cam Zoom",
+						"camGame",
+						"1.2",
+						"12"
+					]
+				]
+			],
+			[
+				33176.4705882353,
+				[
+					[
+						"Change Character",
+						"bf",
+						"boyfriend-chara",
+						""
+					],
+					[
+						"Play Animation",
+						"attack",
+						"bf"
+					],
+					[
+						"Fade Camera",
+						"camHUD",
+						"0",
+						"0.0001"
+					],
+					[
+						"Fade Camera",
+						"camGame",
+						"0",
+						"0.0001"
+					]
+				]
+			],
+			[
+				33221,
+				[
+					[
+						"Fade Camera",
+						"camHUD",
+						"1",
+						"0.0001"
+					]
+				]
+			],
+			[
+				33352.9411764706,
+				[
+					[
+						"Fade Camera",
+						"camHUD",
+						"0",
+						"0.0001"
+					],
+					[
+						"Fade Camera",
+						"camGame",
+						"0",
+						"0.0001"
+					]
+				]
+			],
+			[
+				33398.5,
+				[
+					[
+						"Fade Camera",
+						"camHUD",
+						"1",
+						"0.0001"
+					],
+					[
+						"Fade Camera",
+						"camGame",
+						"1",
+						"0.0001 "
+					]
+				]
+			],
+			[
+				33441.1764705882,
+				[
+					[
+						"Fade Camera",
+						"camHUD",
+						"0",
+						"0.0001"
+					],
+					[
+						"Fade Camera",
+						"camGame",
+						"0",
+						"0.0001"
+					]
+				]
+			],
+			[
+				33486,
+				[
+					[
+						"Fade Camera",
+						"camHUD",
+						"1",
+						"0.0001"
+					],
+					[
+						"Fade Camera",
+						"camGame",
+						"1",
+						"0.0001 "
+					]
+				]
+			],
+			[
+				33529.4117647059,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				33882.3529411765,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					],
+					[
+						"Fast Part",
+						"00FFFF",
+						"1",
+						"True"
+					],
+					[
+						"Middle Scroll",
+						"True",
+						"2",
+						"quintOut"
+					],
+					[
+						"Introduce Dodge",
+						"",
+						""
+					],
+					[
+						"Show Only Strums",
+						"True",
+						""
+					]
+				]
+			],
+			[
+				46588.2352941176,
+				[
+					[
+						"BF Shoot",
+						"True",
+						"",
+						""
+					]
+				]
+			],
+			[
+				48529.4117647058,
+				[
+					[
+						"BF Shoot",
+						"True",
+						"",
+						""
+					]
+				]
+			],
+			[
+				50647.0588235294,
+				[
+					[
+						"BF Shoot",
+						"True",
+						"",
+						""
+					]
+				]
+			],
+			[
+				53117.6470588235,
+				[
+					[
+						"BF Shoot",
+						"True",
+						"",
+						""
+					]
+				]
+			],
+			[
+				55411.7647058823,
+				[
+					[
+						"BF Shoot",
+						"True",
+						"",
+						""
+					]
+				]
+			],
+			[
+				68823.5294117646,
+				[
+					[
+						"BF Shoot",
+						"True",
+						"",
+						""
+					]
+				]
+			],
+			[
+				70411.7647058823,
+				[
+					[
+						"BF Shoot",
+						"True",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71647.0588235293,
+				[
+					[
+						"BF Shoot",
+						"True",
+						"",
+						""
+					]
+				]
+			],
+			[
+				73411.7647058823,
+				[
+					[
+						"BF Shoot",
+						"True",
+						"",
+						""
+					]
+				]
+			],
+			[
+				75529.4117647058,
+				[
+					[
+						"BF Shoot",
+						"True",
+						"",
+						""
+					]
+				]
+			],
+			[
+				77647.0588235293,
+				[
+					[
+						"BF Shoot",
+						"True",
+						"",
+						""
+					]
+				]
+			],
+			[
+				78529.4117647058,
+				[
+					[
+						"BF Shoot",
+						"True",
+						"",
+						""
+					]
+				]
+			],
+			[
+				79058.8235294117,
+				[
+					[
+						"Zoom Frequency",
+						"2",
+						"",
+						""
+					],
+					[
+						"Camera Flash",
+						"camHUD",
+						"1",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				97764.7058823528,
+				[
+					[
+						"Zoom Frequency",
+						"99",
+						"",
+						""
+					]
+				]
+			],
+			[
+				98294.1176470587,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"",
+						" "
+					]
+				]
+			],
+			[
+				98647.0588235293,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"",
+						" "
+					]
+				]
+			],
+			[
+				99176.4705882351,
+				[
+					[
+						"Zoom Frequency",
+						"2",
+						"",
+						" "
+					]
+				]
+			],
+			[
+				101649,
+				[
+					[
+						"Middle Scroll",
+						"False",
+						"2",
+						"quintOut"
+					],
+					[
+						"Slow Part",
+						"1.2",
+						"128",
+						"FFFFFF "
+					],
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					],
+					[
+						"Introduce Dodge",
+						"",
+						""
+					],
+					[
+						"Show Only Strums",
+						"False",
+						""
+					]
+				]
+			],
+			[
+				121941.176470588,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				122470.588235294,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						"",
+						""
+					],
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				124235.294117647,
+				[
+					[
+						"Fast Part",
+						"00FFFF",
+						"1",
+						"True"
+					],
+					[
+						"Middle Scroll",
+						"True",
+						"2",
+						"quintOut"
+					],
+					[
+						"Introduce Dodge",
+						"",
+						""
+					],
+					[
+						"Show Only Strums",
+						"True",
+						""
+					]
+				]
+			],
+			[
+				129705.882352941,
+				[
+					[
+						"BF Shoot",
+						"True",
+						"",
+						""
+					]
+				]
+			],
+			[
+				132176.470588235,
+				[
+					[
+						"BF Shoot",
+						"True",
+						"",
+						""
+					]
+				]
+			],
+			[
+				135088.235294117,
+				[
+					[
+						"BF Shoot",
+						"True",
+						"",
+						""
+					]
+				]
+			],
+			[
+				146825,
+				[
+					[
+						"Middle Scroll",
+						"False",
+						"2",
+						"quintOut"
+					],
+					[
+						"Slow Part",
+						"1.2",
+						"128",
+						"FFFFFF "
+					],
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					],
+					[
+						"Show Only Strums",
+						"False",
+						""
+					]
+				]
+			],
+			[
+				167823.529411764,
+				[
+					[
+						"Camera Flash",
+						"camHUD",
+						"1",
+						"FFFFFF"
+					]
+				]
+			],
+			[
+				173294.117647059,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"bf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 170,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Burning in Fear"
+	}
+}

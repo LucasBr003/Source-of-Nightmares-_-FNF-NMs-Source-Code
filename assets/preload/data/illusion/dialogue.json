@@ -1,0 +1,236 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "beep be be boop skdbeep po ba beep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(Damn it, he wasn't supposed to see me...)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Red portal? I don't know what you're talking about..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "baps boop skeed beep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "baboop be be ba skedbeep bo biip boop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uhhh... What do you mean?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm just a normal person..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm totally a normal person..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nothing sus here..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Anyways, if you don't mind, I gotta do my shoppings now."
+		},
+		{
+			"sound": "",
+			"speed": 0.00500000000000001,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "bap be be biip boop skedbeep boop ske boop beep bi bo bap skedbapoob bee bo ba ba biip boop skbeep bo bii bo bo ske boop beep bap bap be be biip boop skedbeep boop ske boop beep bi bo bap skedbapoob bee bo ba ba biip boop skbeep bo bii bo bo ske boop beep bap"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "The heck..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What do you want with me?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "skeep boop beep bop baap bee skeeboop baap bobepo skap"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "skadpeeb boo beepiiboo bo bo be be skad boobeep bo bep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Listen here buddy, I don't know what you're talking about."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What do you mean when you say ''nightmare''?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Just because I'm literally on fire?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's odd."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...You're weird..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, I have to do my shoppings, I have to go now."
+		},
+		{
+			"sound": "",
+			"speed": 0.01,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "bap be be biip boop skedbeep boop ske boop beep bi bo bap skedbapoob bee bo ba ba biip boop skbeep bo bii bo bo ske boop beep bap bap be be biip boop skedbeep boop ske boop beep bi bo bap skedbapoob bee bo ba ba biip boop skbeep bo bii bo bo ske boop beep bap"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "WHAT THE HECK DO YOU WANT?!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "beep boop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You gotta be kidding me..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I don't have time for this."
+		},
+		{
+			"sound": "",
+			"speed": 0.01,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "bap be be biip boop skedbeep boop ske boop beep bi bo bap skedbapoob bee bo ba ba biip boop skbeep bo bii bo bo ske boop beep bap bap be be biip boop skedbeep boop ske boop beep bi bo bap skedbapoob bee bo ba ba biip boop skbeep bo bii bo bo ske boop beep bap"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "OH MY GOD! FINE THEN!"
+		}
+	]
+}

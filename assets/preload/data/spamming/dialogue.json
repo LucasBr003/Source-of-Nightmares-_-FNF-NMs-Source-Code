@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "skdbeeboop bah boop beep?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, well...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "NOW you gonna have some spammy trouble."
+		},
+		{
+			"expression": "pissed",
+			"text": "bee bop bo bah yeah",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "You'll see.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night"
+		}
+	]
+}

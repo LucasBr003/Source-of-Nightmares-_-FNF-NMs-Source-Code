@@ -1,0 +1,59 @@
+{
+	"storyName": "Nightmarization",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "4_finale",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Gun Shot",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Low",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Innocence",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"It's Over",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Game_Over"
+}

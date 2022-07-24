@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok, we are done."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Just let me pass."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But I..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*sigh* ...You know what?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "SCREW IT!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "YOU RUINED EVERYTHING!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "beep?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Your nightmare starts now."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And yes, I am a  ''nightmare''."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "beep bop skdbeep ba"
+		}
+	]
+}

@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Improbability",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Combat",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Crazy Clown",
+	"weekName": "Nightmare_3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "2_nightmare2",
+	"startUnlocked": false
+}

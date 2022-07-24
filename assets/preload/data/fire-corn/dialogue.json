@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"expression": "pissed",
+			"text": "Skdpeeb boo beep yeah bop bep beep ba",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "No, you didn't win yet.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Let's just begin the next round, shall we?"
+		},
+		{
+			"expression": "confused",
+			"text": "bee bop bo?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm not lonely like you. I have more than one ''friend''.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night"
+		},
+		{
+			"expression": "talk",
+			"text": "beep bobop skedpeb yeah boo baah",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "SHUT UP!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'll have one very soon..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "baah bobeep?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Die now and you'll see..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Into the next song."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, you gotta have some spammy trouble with this one."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "beep..."
+		}
+	]
+}

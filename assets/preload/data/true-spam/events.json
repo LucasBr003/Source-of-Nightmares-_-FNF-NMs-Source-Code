@@ -1,0 +1,112 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "nightRoom",
+		"player1": "boyfriend-green",
+		"player2": "bambi",
+		"player3": null,
+		"events": [
+			[
+				14875,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				32000,
+				[
+					[
+						"Zoom Frequency",
+						"2",
+						""
+					],
+					[
+						"Set Corn Properties",
+						"0.3",
+						"10.7"
+					],
+					[
+						"Middle Scroll",
+						"False",
+						"1",
+						"quintOut"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				62500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				63000,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Set Corn Properties",
+						"0.4",
+						"10.7",
+						""
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Set Corn Properties",
+						"0.125",
+						"10.7",
+						""
+					]
+				]
+			],
+			[
+				112000,
+				[
+					[
+						"Zoom Frequency",
+						"1000",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 240,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "True Spam"
+	}
+}

@@ -1,0 +1,119 @@
+{
+	"song": {
+		"speed": 1.00000000000002,
+		"stage": "stage",
+		"player1": "boyfriend",
+		"player2": "bf",
+		"player3": null,
+		"events": [
+			[
+				37200,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				37500,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				37800,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				38100,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				38250,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Change Scroll Speed",
+						"3.2",
+						"0.5"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Zoom Frequency",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				129600,
+				[
+					[
+						"Zoom Frequency",
+						"4000",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 100,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Relief"
+	}
+}

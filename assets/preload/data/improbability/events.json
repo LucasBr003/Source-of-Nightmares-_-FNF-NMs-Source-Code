@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "nightNevada",
+		"player1": "boyfriend-red",
+		"player2": "tricky",
+		"player3": null,
+		"events": [
+			[
+				31135.1351351351,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				72648.6486486487,
+				[
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				82378.3783783784,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				93405.4054054054,
+				[
+					[
+						"Zoom Frequency",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				103783.783783784,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				145297.297297297,
+				[
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				166054.054054054,
+				[
+					[
+						"Zoom Frequency",
+						"4000",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 185,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Improbability"
+	}
+}

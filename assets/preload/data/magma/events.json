@@ -1,0 +1,139 @@
+{
+	"song": {
+		"speed": 3.4,
+		"stage": "nightNevadaHank",
+		"player1": "boyfriend-red",
+		"player2": "tricky",
+		"player3": null,
+		"events": [
+			[
+				9056.60377358491,
+				[
+					[
+						"Zoom Frequency",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				18113.2075471698,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				35165.0943396226,
+				[
+					[
+						"Big Lane",
+						"",
+						""
+					]
+				]
+			],
+			[
+				36226.4150943396,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				45283.0188679245,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				72452.8301886792,
+				[
+					[
+						"Zoom Frequency",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				99622.641509434,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				117735.849056604,
+				[
+					[
+						"Zoom Frequency",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				138113.20754717,
+				[
+					[
+						"Zoom Frequency",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				156226.41509434,
+				[
+					[
+						"Zoom Frequency",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				180000,
+				[
+					[
+						"Zoom Frequency",
+						"2000",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "hank",
+		"bpm": 212,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Magma"
+	}
+}

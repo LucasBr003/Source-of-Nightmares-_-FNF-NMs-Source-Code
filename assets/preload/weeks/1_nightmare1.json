@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"Vanishing",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"No Traces",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Dead Murder",
+	"weekName": "Nightmare_1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "0_theBeginning",
+	"startUnlocked": false
+}

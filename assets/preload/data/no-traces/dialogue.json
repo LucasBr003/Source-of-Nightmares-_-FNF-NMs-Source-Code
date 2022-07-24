@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "shocked",
+			"text": "BOP BEEP SKDEEBEEP BO BOP BEEP DO BUUP PEBOOP BOPEEBO BEEP?!?!?",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, I forgot to say...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night"
+		},
+		{
+			"expression": "talk",
+			"text": "They were originally weak. I just did them a favor.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night"
+		},
+		{
+			"expression": "talk",
+			"text": "I made them stronger. I made them faster. I made them infinite times better.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night"
+		},
+		{
+			"expression": "talk",
+			"text": "They have only one goal: To Kill.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night"
+		},
+		{
+			"expression": "confused",
+			"text": "I've turned them into killing machines. My killing machines.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But OF COURSE you will not fight them. You will just sing as naturally as possible instead."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "beep bop buuh yeah"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-night",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "So SHUT UP and start singing!"
+		}
+	]
+}
