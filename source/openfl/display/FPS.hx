@@ -7,6 +7,7 @@ import openfl.text.TextFormat;
 import flixel.math.FlxMath;
 import flixel.util.FlxSave;
 import flixel.FlxG;
+import openfl.Assets;
 #if gl_stats
 import openfl.display._internal.stats.Context3DStats;
 import openfl.display._internal.stats.DrawCallContext;
