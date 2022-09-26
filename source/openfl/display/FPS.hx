@@ -7,6 +7,7 @@ import openfl.text.TextFormat;
 import flixel.math.FlxMath;
 import flixel.util.FlxSave;
 import flixel.FlxG;
+import openfl.Assets;
 #if gl_stats
 import openfl.display._internal.stats.Context3DStats;
 import openfl.display._internal.stats.DrawCallContext;
@@ -48,7 +49,7 @@ class FPS extends TextField
 		currentFPS = 0;
 		selectable = false;
 		mouseEnabled = false;
-		defaultTextFormat = new TextFormat("_vcr", 14, color);
+		defaultTextFormat = new TextFormat(getFont(Paths.font("vcr.ttf")), 14, color);
 		autoSize = LEFT;
 		multiline = true;
 		text = "FPS: ";
@@ -64,6 +65,22 @@ class FPS extends TextField
 			__enterFrame(time - currentTime);
 		});
 		#end
+	}
+	
+	public function getFont(Font:String):String
+	{
+		embedFonts = true;
+
+		var newFontName:String = Font;
+
+		if (Font != null)
+		{
+			if (Assets.exists(Font, AssetType.FONT))
+			{
+				newFontName = Assets.getFont(Font).fontName;
+			}
+		}
+		return newFontName;
 	}
 
 	// Event Handlers
